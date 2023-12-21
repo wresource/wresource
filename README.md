@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wresource">
-    <img src="https://githubstate.growtry.com/api?username=xyh-fu&show_icons=true&theme=transparent&title_color=65b587&icon_color=7dc09a&border_color=7dc09a" />
+    <img src="https://githubstate.growtry.com/api?username=wresource&show_icons=true&theme=transparent&title_color=65b587&icon_color=7dc09a&border_color=7dc09a" />
   </a>
 </p>
 
