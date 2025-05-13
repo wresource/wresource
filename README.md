@@ -11,9 +11,6 @@
   <a href="https://dreamstudio.blog.csdn.net">
     <img src="https://img.shields.io/badge/csdn%20CSDN地址-brightness.svg" />
   </a>
-  <a href="https://juejin.cn/user/3844356332328536">
-    <img src="https://img.shields.io/badge/juejin%20掘金地址-brightness.svg" />
-  </a>
   <a href="https://github.com/wresource">
     <img src="https://komarev.com/ghpvc/?username=wresource&color=brightgreen&label=view%20Views" />
   </a>  
